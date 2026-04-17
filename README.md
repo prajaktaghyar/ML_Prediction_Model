@@ -18,6 +18,8 @@ MAE (Mean Absolute Error): Average prediction error
 MSE (Mean Squared Error): Penalizes large errors
 RMSE (Root Mean Squared Error): Error in salary units
 R² Score: Measures model accuracy (closer to 1 is better)
+
+
 ✅ Conclusion
 
 Ensemble methods like Random Forest and Gradient Boosting deliver the best performance for salary prediction, while Linear Regression provides a strong baseline.
